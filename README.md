@@ -3,8 +3,6 @@ scheme interpreter written in python
 
 > **Note:** This repository is a technical overview and documentation only. To comply with UC Berkeley academic policy, the source code is kept in a private repository.
 
-> Scheme Interpreter (Python)
-
 A fully functional interpreter for a subset of the Scheme programming language, built using Python. This project covers lexical and dynamic scoping, and functional programming paradigms taught in cs61a at Berkeley.
 
 ## Features
